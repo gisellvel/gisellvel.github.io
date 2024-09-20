@@ -24,6 +24,26 @@ a:hover {
   text-decoration: none;
 }
 
+#hero h1, #hero h2 {
+  background-color: #1e3a8a; /* Color azul */
+  color: white; /* Color blanco para el texto */
+  padding: 10px 20px; /* Espacio interno */
+  border-radius: 5px; /* Bordes ligeramente redondeados */
+  text-align: center;
+  display: inline-block;
+  margin: 10px 0;
+}
+
+#hero {
+  text-align: center;
+  position: relative;
+}
+
+.btn-get-started {
+  margin-top: 20px;
+}
+
+
 h1,
 h2,
 h3,
